@@ -1,27 +1,32 @@
 Para iniciar, entrar no GitHub e criar um repositório com arquivo README.MD
 
-2. Para puxar o projeto criado no Git Hub:
+1. Para puxar o projeto criado no Git Hub:
 
 git remote add origin https://github.com/sandonofre/Data-Sience.git
 git pull origin master
 
-3. Para criar arquivo Local e enviar para o GitHub, basta depois de criado:
+2. Para criar arquivo Local e enviar para o GitHub, basta depois de criado:
 git add .
 git commit -m "Marcando para envio de todos os arquivos"
 git push origin master
 
-teste do editor de textos
-# Data-Science
-Universidade Johns Hopkins
-
-- The Data Scietist's Toolbox
-git commit -m "Marcando para envio de todos os arquivos"
-
+3. Se alterarmos o arquivo pelo GitHub, ir no local e pegar atualização
+git pull origin master
 
 4. Lembrar que o comando abaixo, leva apenas as atualizações que foram feitas desde o último sincronismo.
 git add -u
 
 -- https://git-scm.com/docs/git-add (todas as opções possíveis + exemplos)
+
+
+
+
+teste do editor de textos
+# data-science
+universidade johns hopkins
+
+- the data scietist's toolbox
+git commit -m "marcando para envio de todos os arquivos"
 
 
 
