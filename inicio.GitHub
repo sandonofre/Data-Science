@@ -18,7 +18,10 @@ Universidade Johns Hopkins
 git commit -m "Marcando para envio de todos os arquivos"
 
 
+4. Lembrar que o comando abaixo, leva apenas as atualizações que foram feitas desde o último sincronismo.
+git add -u
 
+-- https://git-scm.com/docs/git-add (todas as opções possíveis + exemplos)
 
 
 
